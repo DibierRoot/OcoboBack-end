@@ -1,0 +1,46 @@
+[07-Dec-2025 19:03:43 UTC] PHP Warning:  Undefined variable $data in /var/www/html/OcoboBack-end/GenerarFactura/index.php on line 20
+[07-Dec-2025 19:03:43 UTC] Datos recibidos en el backend: 
+[07-Dec-2025 19:03:43 UTC] PHP Warning:  Undefined variable $data in /var/www/html/OcoboBack-end/GenerarFactura/index.php on line 183
+[07-Dec-2025 19:03:43 UTC] Faltan parámetros para generar la factura: 
+[07-Dec-2025 19:04:10 UTC] PHP Warning:  Undefined variable $data in /var/www/html/OcoboBack-end/GenerarFactura/index.php on line 182
+[07-Dec-2025 19:04:10 UTC] Faltan parámetros para generar la factura: 
+[07-Dec-2025 19:04:20 UTC] PHP Warning:  Undefined variable $data in /var/www/html/OcoboBack-end/GenerarFactura/index.php on line 182
+[07-Dec-2025 19:04:20 UTC] Faltan parámetros para generar la factura: 
+[07-Dec-2025 19:06:40 UTC] PHP Warning:  Undefined variable $data in /var/www/html/OcoboBack-end/GenerarFactura/index.php on line 182
+[07-Dec-2025 19:06:40 UTC] Faltan parámetros para generar la factura: 
+[07-Dec-2025 19:10:22 UTC] PHP Warning:  Undefined variable $data in /var/www/html/OcoboBack-end/GenerarFactura/index.php on line 182
+[07-Dec-2025 19:10:22 UTC] Faltan parámetros para generar la factura: 
+[07-Dec-2025 19:12:38 UTC] PHP Warning:  Undefined variable $data in /var/www/html/OcoboBack-end/GenerarFactura/index.php on line 182
+[07-Dec-2025 19:12:38 UTC] Faltan parámetros para generar la factura: 
+[07-Dec-2025 19:13:15 UTC] PHP Warning:  Undefined variable $data in /var/www/html/OcoboBack-end/GenerarFactura/index.php on line 182
+[07-Dec-2025 19:13:15 UTC] Faltan parámetros para generar la factura: 
+[07-Dec-2025 19:13:30 UTC] PHP Warning:  Undefined variable $data in /var/www/html/OcoboBack-end/GenerarFactura/index.php on line 182
+[07-Dec-2025 19:13:30 UTC] Faltan parámetros para generar la factura: 
+[07-Dec-2025 19:15:06 UTC] PHP Warning:  Undefined variable $data in /var/www/html/OcoboBack-end/GenerarFactura/index.php on line 182
+[07-Dec-2025 19:15:06 UTC] Faltan parámetros para generar la factura: 
+[07-Dec-2025 19:18:39 UTC] PHP Warning:  Undefined variable $db in /var/www/html/OcoboBack-end/GenerarFactura/index.php on line 32
+[07-Dec-2025 19:18:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/OcoboBack-end/GenerarFactura/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/OcoboBack-end/GenerarFactura/index.php on line 32
+[07-Dec-2025 19:20:27 UTC] PHP Warning:  Undefined variable $db in /var/www/html/OcoboBack-end/GenerarFactura/index.php on line 32
+[07-Dec-2025 19:20:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/OcoboBack-end/GenerarFactura/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/OcoboBack-end/GenerarFactura/index.php on line 32
+[07-Dec-2025 19:21:28 UTC] PHP Warning:  Undefined variable $db in /var/www/html/OcoboBack-end/GenerarFactura/index.php on line 33
+[07-Dec-2025 19:21:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/OcoboBack-end/GenerarFactura/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/OcoboBack-end/GenerarFactura/index.php on line 33
+[07-Dec-2025 19:21:31 UTC] PHP Warning:  Undefined variable $db in /var/www/html/OcoboBack-end/GenerarFactura/index.php on line 33
+[07-Dec-2025 19:21:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/OcoboBack-end/GenerarFactura/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/OcoboBack-end/GenerarFactura/index.php on line 33
+[08-Dec-2025 15:28:09 UTC] PHP Warning:  Undefined variable $data in /var/www/html/OcoboBack-end/GenerarFactura/index.php on line 183
+[08-Dec-2025 15:28:09 UTC] Faltan parámetros para generar la factura: 
+[08-Dec-2025 15:28:18 UTC] PHP Warning:  Undefined variable $data in /var/www/html/OcoboBack-end/GenerarFactura/index.php on line 183
+[08-Dec-2025 15:28:18 UTC] Faltan parámetros para generar la factura: 
+[08-Dec-2025 15:30:55 UTC] PHP Warning:  Undefined variable $data in /var/www/html/OcoboBack-end/GenerarFactura/index.php on line 187
+[08-Dec-2025 15:30:55 UTC] Faltan parámetros para generar la factura: 

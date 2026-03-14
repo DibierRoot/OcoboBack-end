@@ -1,0 +1,30 @@
+[09-Feb-2026 19:44:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';
+                OR idTalla = 2;
+                OR idTalla = 3;
+              ' at line 3 in /var/www/html/OcoboBack-end/Filtros/Producto.php:22
+Stack trace:
+#0 /var/www/html/OcoboBack-end/Filtros/Producto.php(22): mysqli->prepare()
+#1 /var/www/html/OcoboBack-end/Filtros/index.php(37): Producto->obtenerProducto()
+#2 {main}
+  thrown in /var/www/html/OcoboBack-end/Filtros/Producto.php on line 22
+[09-Feb-2026 19:45:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR (idTalla = 2 AND NOT EXISTS (
+                    SELECT 1 FROM Productos WHE' at line 3 in /var/www/html/OcoboBack-end/Filtros/Producto.php:32
+Stack trace:
+#0 /var/www/html/OcoboBack-end/Filtros/Producto.php(32): mysqli->prepare()
+#1 /var/www/html/OcoboBack-end/Filtros/index.php(37): Producto->obtenerProducto()
+#2 {main}
+  thrown in /var/www/html/OcoboBack-end/Filtros/Producto.php on line 32
+[09-Feb-2026 19:45:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR (idTalla = 2 AND NOT EXISTS (
+                    SELECT 1 FROM Productos WHE' at line 3 in /var/www/html/OcoboBack-end/Filtros/Producto.php:32
+Stack trace:
+#0 /var/www/html/OcoboBack-end/Filtros/Producto.php(32): mysqli->prepare()
+#1 /var/www/html/OcoboBack-end/Filtros/index.php(37): Producto->obtenerProducto()
+#2 {main}
+  thrown in /var/www/html/OcoboBack-end/Filtros/Producto.php on line 32
+[09-Feb-2026 19:46:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR (idTalla = 2 AND NOT EXISTS (
+                    SELECT 1 FROM Productos WHE' at line 3 in /var/www/html/OcoboBack-end/Filtros/Producto.php:31
+Stack trace:
+#0 /var/www/html/OcoboBack-end/Filtros/Producto.php(31): mysqli->prepare()
+#1 /var/www/html/OcoboBack-end/Filtros/index.php(37): Producto->obtenerProducto()
+#2 {main}
+  thrown in /var/www/html/OcoboBack-end/Filtros/Producto.php on line 31

@@ -1,0 +1,6 @@
+[23-Dec-2025 19:26:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'idEstado' in 'field list' in /var/www/html/OcoboBack-end/PQRs/PQR.php:12
+Stack trace:
+#0 /var/www/html/OcoboBack-end/PQRs/PQR.php(12): mysqli->prepare()
+#1 /var/www/html/OcoboBack-end/PQRs/index.php(53): PQR->publicarMensaje()
+#2 {main}
+  thrown in /var/www/html/OcoboBack-end/PQRs/PQR.php on line 12
